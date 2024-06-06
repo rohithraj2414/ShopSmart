@@ -80,16 +80,3 @@ Smart Shop is poised to change the way users approach grocery shopping, providin
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro/ShopSmartScraper)
 
-## Contributions <a id="contributions"></a>
-
-![Alt](https://repobeats.axiom.co/api/embed/8f067b3de758710566b9d73f68f1778424ce633d.svg "Repobeats analytics image")
-
-## Contributors <a id="contributors"></a>
-
--  [Hayden Cordeiro](https://hayden.co.in/)<br>
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydencordeiro/)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro)
-
--  [Jivin Varghese Porthukaran](https://jivin.co.in/)<br>
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JivinVarghese/)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JivinVarghese)
